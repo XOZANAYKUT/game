@@ -28,3 +28,9 @@ startButton.addEventListener('click', () => {
         scoreDisplay.style.display = 'block';
     }
 });
+// Function to determine the computer's choice
+function computerPlay() {
+    // Generate a random choice for the computer
+    const randomIndex = Math.floor(Math.random() * choices.length);
+    return choices[randomIndex].getAttribute('data-choice');
+}
