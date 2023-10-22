@@ -8,3 +8,4 @@ let username = "";
 const usernameInput = document.getElementById('username');
 const startButton = document.getElementById('start-button');
 const userInfoDiv = document.getElementById('user-info');
+const gameDiv = document.getElementById('game');
