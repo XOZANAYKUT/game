@@ -1,7 +1,7 @@
 /*Asterisk wildcard selector to override default styles added by the browser */ 
 * {
     padding: 0;
-    margin: 0;
+    margin: 5px;
     box-sizing: border-box;
 } 
 /* Overall styling for the HTML body */
@@ -62,11 +62,16 @@ h1 {
     font-size: 25px;
     padding: 10px;
 }
+/* Styling for the user section */
+#user-section{
+    margin-top: 20px;
+    font-size: 20px;}
 
 /* Styling for the username input field */
 #username {
     padding: 10px;
     font-size: 15px;
+   
 }
 
 /* Styling for the "Start Game" button */
