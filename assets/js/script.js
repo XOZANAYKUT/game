@@ -58,3 +58,14 @@ function updateGame(result, userChoice, computerChoice) {
         endGame();
     }
 }
+// Function to handle the end of the game
+function endGame() {
+    // Determine the overall winner
+    // ...
+
+    // Disable the choices and show the restart button
+    choices.forEach(choice => {
+        choice.disabled = true;
+    });
+    restartButton.style.display = 'block';
+}
