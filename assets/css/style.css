@@ -77,7 +77,6 @@ h1 {
     background-color: lightblue;
     color: white;
 }
-User
 
 /* Styling for game choices (rock, paper, scissors, lizard, spock) */
 .choice {
@@ -120,6 +119,7 @@ User
     background-color: lightblue;
     color: white;
 }
+
 /* Responsive design for small screens (max-width: 768px) */
 @media (max-width: 768px) {
     .choice {
