@@ -4,6 +4,7 @@ let computerScore = 0;
 let maxTries = 10;
 let triesLeft = maxTries;
 let username = "";
+
 // Get HTML elements
 const usernameInput = document.getElementById('username');
 const startButton = document.getElementById('start-button');
@@ -15,19 +16,31 @@ const scoreDisplay = document.getElementById('score');
 const resultDisplay = document.getElementById('result');
 const restartButton = document.getElementById('restart');
 
-// Event listener for the "Start Game" button
+// Hide the game section initially
+gameDiv.style.display = 'none';
+
+// Add an event listener for the "Start Game" button
 startButton.addEventListener('click', () => {
     // Get the entered username
-    const username = usernameInput.value; // Define the "username" variable as "const".
+    username = usernameInput.value;
 
     if (username) {
         // Hide the user info section and show the game section
         userInfoDiv.style.display = 'none';
-        gameDiv.style.display = 'block'; // Set the "display" property correctly.
+        gameDiv.style.display = 'block';
         userLabel.textContent = `${username}:`;
+        userNameDisplay.textContent = username;
         scoreDisplay.style.display = 'block';
+
+        // Enable choice buttons
+        choices.forEach(choice => {
+            choice.disabled = false;
+        });
+    } else {
+        alert('Please enter a username to start the game.');
     }
 });
+
 // Get all the choice buttons
 const choices = document.querySelectorAll('.choice');
 
@@ -114,6 +127,6 @@ function restartGame() {
     choices.forEach(choice => {
         choice.disabled = false;
     });
-
-    restartButton.style.display = 'none';
+    gameDiv.style.display = 'none'; // Hide the game section
+    userInfoDiv.style.display = 'block'; // Show the user info section
 }
