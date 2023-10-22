@@ -98,4 +98,25 @@ User
     display: flex;
     justify-content: space-around;
     margin: 40px;
+} 
+/* Styling for the game result message */
+#result {
+    font-size: 20px;
+    margin-top: 40px;
+}
+
+/* Styling for the restart button */
+#restart {
+    font-size: 30px;
+    margin-top: 10px;
+    background-color: lightblue;
+    border-radius: 30px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+/* Highlight restart button on hover */
+#restart:hover {
+    background-color: lightblue;
+    color: white;
 }
