@@ -1,1 +1,23 @@
+/* Overall styling for the HTML body */
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: lightgray;
+}
 
+/* Styling for the page title */
+h1 {
+    color: #333;
+    text-align: center;
+    margin-top: 8px;
+    font-size: 30px;
+}
+
+/* Styling for the "Start Game" button */
+#start-button {
+    padding: 10px 20px;
+    font-size: 15px;
+    cursor: pointer;
+    background-color: lightblue;
+    border-radius: 10px;
+}
