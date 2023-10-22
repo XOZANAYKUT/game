@@ -14,3 +14,17 @@ const userNameDisplay = document.getElementById('user-name');
 const scoreDisplay = document.getElementById('score');
 const resultDisplay = document.getElementById('result');
 const restartButton = document.getElementById('restart');
+
+// Event listener for the "Start Game" button
+startButton.addEventListener('click', () => {
+    // Get the entered username
+    const username = usernameInput.value; // Define the "username" variable as "const".
+
+    if (username) {
+        // Hide the user info section and show the game section
+        userInfoDiv.style.display = 'none';
+        gameDiv.style.display = 'block'; // Set the "display" property correctly.
+        userLabel.textContent = `${username}:`;
+        scoreDisplay.style.display = 'block';
+    }
+});
