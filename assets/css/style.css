@@ -23,7 +23,7 @@ h1 {
 }
 /* Styling for the game logo */
 .logo {
-    background-image: url(../images/logo.png);
+    background-image: url(../image/logo.png);
     background-color: rgb(129, 207, 240);
     background-repeat: no-repeat;
     background-size: 368px;
