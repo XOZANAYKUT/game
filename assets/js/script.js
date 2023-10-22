@@ -34,3 +34,17 @@ function computerPlay() {
     const randomIndex = Math.floor(Math.random() * choices.length);
     return choices[randomIndex].getAttribute('data-choice');
 }
+// Function to play a round and determine the result
+function playRound(playerSelection, computerSelection) {
+    // Logic to determine the winner of the round
+    // ...
+
+    // Return the result message
+    if (userWinsRound) {
+        userScore++;
+        return 'You win this round!';
+    } else {
+        computerScore++;
+        return 'Computer wins this round!';
+    }
+}
