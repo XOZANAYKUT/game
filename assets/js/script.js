@@ -12,3 +12,5 @@ const gameDiv = document.getElementById('game');
 const userLabel = document.getElementById('user-label');
 const userNameDisplay = document.getElementById('user-name');
 const scoreDisplay = document.getElementById('score');
+const resultDisplay = document.getElementById('result');
+const restartButton = document.getElementById('restart');
