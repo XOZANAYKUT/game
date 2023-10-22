@@ -6,3 +6,4 @@ let triesLeft = maxTries;
 let username = "";
 // Get HTML elements
 const usernameInput = document.getElementById('username');
+const startButton = document.getElementById('start-button');
