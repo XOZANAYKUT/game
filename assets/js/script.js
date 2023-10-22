@@ -48,3 +48,13 @@ function playRound(playerSelection, computerSelection) {
         return 'Computer wins this round!';
     }
 }
+// Function to update the game based on the round result
+function updateGame(result, userChoice, computerChoice) {
+    // Update the game state and display
+    // ...
+
+    // Check if the game has ended
+    if (triesLeft === 0) {
+        endGame();
+    }
+}
