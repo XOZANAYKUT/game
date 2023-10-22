@@ -11,3 +11,4 @@ const userInfoDiv = document.getElementById('user-info');
 const gameDiv = document.getElementById('game');
 const userLabel = document.getElementById('user-label');
 const userNameDisplay = document.getElementById('user-name');
+const scoreDisplay = document.getElementById('score');
