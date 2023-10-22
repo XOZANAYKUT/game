@@ -69,3 +69,9 @@ function endGame() {
     });
     restartButton.style.display = 'block';
 }
+
+// Function to restart the game
+function restartGame() {
+    // Reset game variables and UI
+    // ...
+}
