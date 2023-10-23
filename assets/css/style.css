@@ -1,3 +1,7 @@
+/*Google Fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
 /*Asterisk wildcard selector to override default styles added by the browser */ 
 * {
     padding: 0;
@@ -7,7 +11,7 @@
 /* Overall styling for the HTML body */
 body {
     text-align: center;
-    font-family: Arial, sans-serif;
+    font-family: 'Playfair Display', serif;
     background-color: lightgray;
 }
 
@@ -17,16 +21,9 @@ h1 {
     text-align: center;
     margin-top: 8px;
     font-size: 30px;
+    font-family: 'Playfair Display', serif;
 }
 
-/* Styling for the "Start Game" button */
-#start-button {
-    padding: 10px 20px;
-    font-size: 15px;
-    cursor: pointer;
-    background-color: lightblue;
-    border-radius: 10px;
-}
 /* Styling for the game logo */
 .logo {
     background-image: url(../image/logo.png);
@@ -54,6 +51,7 @@ h1 {
 #score {
     font-size: 24px;
     margin-bottom: 20px;
+    font-family: 'Playfair Display', serif;
 }
 /* Styling for the user information section */
 #user-info {
@@ -63,15 +61,17 @@ h1 {
     padding: 10px;
 }
 /* Styling for the user section */
-#user-section{
+#user-section {
     margin-top: 20px;
-    font-size: 20px;}
+    font-size: 20px;
+    font-family: 'Playfair Display', serif;
+}
 
 /* Styling for the username input field */
 #username {
     padding: 10px;
     font-size: 15px;
-   
+    font-family: 'Playfair Display', serif;
 }
 
 /* Styling for the "Start Game" button */
@@ -81,6 +81,7 @@ h1 {
     cursor: pointer;
     background-color:rgb(129, 207, 240);
     border-radius: 10px;
+    font-family: 'Playfair Display', serif;
 }
 
 /* Highlight "Start Game" button on hover */
@@ -95,6 +96,7 @@ h1 {
     font-size: 30px;
     cursor: pointer;
     transition: background-color 0.3s, color 0.3s;
+    font-family: 'Playfair Display', serif;
 }
 
 /* Highlight choice on hover */
@@ -113,6 +115,7 @@ h1 {
 #result {
     font-size: 20px;
     margin-top: 40px;
+    font-family: 'Playfair Display', serif;
 }
 
 /* Styling for the restart button */
@@ -124,6 +127,7 @@ h1 {
     border-radius: 10px;
     text-align: center;
     margin: 0 auto;
+    font-family: 'Playfair Display', serif;
 }
 
 /* Highlight restart button on hover */
