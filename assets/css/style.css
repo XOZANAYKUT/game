@@ -29,11 +29,11 @@ h1 {
 .logo {
     background-image: url(../image/logo.webp);
     background-repeat: no-repeat;
-    background-size: 368px;
+    background-size: 200px;
     background-position: center;
     box-sizing: border-box;
-    width: 40%;
-    height: 43vh;
+    width: 30%;
+    height: 50vh;
     max-height: 300px;
     margin-left: auto;
     margin-right: auto;
@@ -56,7 +56,7 @@ h1 {
 /* Styling for the user information section */
 #user-info {
     text-align: center;
-    margin-top: 25px;
+    margin-top: 10px;
     font-size: 25px;
     padding: 10px;
 }
