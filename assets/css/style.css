@@ -79,7 +79,7 @@ h1 {
     padding: 10px 20px;
     font-size: 15px;
     cursor: pointer;
-    background-color: lightblue;
+    background-color:rgb(129, 207, 240);
     border-radius: 10px;
 }
 
@@ -117,10 +117,11 @@ h1 {
 
 /* Styling for the restart button */
 #restart {
-    font-size: 30px;
-    margin-top: 10px;
-    background-color: lightblue;
-    border-radius: 30px;
+    padding: 10px 20px;
+    font-size: 15px;
+    cursor: pointer;
+    background-color: rgb(129, 207, 240);
+    border-radius: 10px;
     text-align: center;
     margin: 0 auto;
 }
