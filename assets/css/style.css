@@ -32,9 +32,10 @@ h1 {
     background-size: 200px;
     background-position: center;
     box-sizing: border-box;
-    width: 30%;
+    width: 90%;
     height: 50vh;
     max-height: 300px;
+    max-width: 800px;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
@@ -86,7 +87,7 @@ h1 {
 
 /* Highlight "Start Game" button on hover */
 #start-button:hover {
-    background-color: lightblue;
+    background-color: rgb(129, 207, 240);
     color: white;
 }
 
@@ -97,12 +98,12 @@ h1 {
     cursor: pointer;
     transition: background-color 0.3s, color 0.3s;
     font-family: 'Playfair Display', serif;
+    background-color: rgb(129, 207, 240);
 }
 
 /* Highlight choice on hover */
 .choice:hover {
-    background-color: lightblue;
-    color: white;
+    background-color: white;
 }
 
 /* Styling for the game choices (rock, paper, scissors, lizard, spock) */
@@ -149,4 +150,4 @@ h1 {
         padding: 5px 10px;
         font-size: 18px;
     }
-} 
+}
