@@ -39,20 +39,6 @@ ___
 - The result of the winner is announced to the user under the options, and the scores are updated for both players.
 
 - This way, it becomes clear for users who won and what the scores are, making it easy to understand the game's outcome and scores.
-
-- In addition to the traditional Rock, Paper, Scissors rules, the game includes the following rules:
-
-- Rock crushes Scissors.
-- Rock crushes Lizard.
-- Paper covers Rock.
-- Paper disproves Spock.
-- Scissors cuts Paper.
-- Scissors decapitates Lizard.
-- Lizard poisons Spock.
-- Lizard eats Paper.
-- Spock vaporizes Rock.
-- Spock smashes Scissors.
-- By integrating these rules, players can enjoy the game with more strategy and excitement.
 ___
 ![results](madia/results.png)
 ___
