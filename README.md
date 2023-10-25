@@ -42,6 +42,7 @@ ___
 ___
 ![results](madia/results.png)
 ___
+
 ## Restart
 
 - The game result is displayed.
@@ -49,3 +50,23 @@ ___
 ___
 ![Restart](madia/restart.png)
 ___
+
+### The Game Rules
+- In addition to the traditional Rock, Paper, Scissors rules, the game includes the following rules:
+
+- Rock crushes Scissors.
+- Rock crushes Lizard.
+- Paper covers Rock.
+- Paper disproves Spock.
+- Scissors cuts Paper.
+- Scissors decapitates Lizard.
+- Lizard poisons Spock.
+- Lizard eats Paper.
+- Spock vaporizes Rock.
+- Spock smashes Scissors.
+- By integrating these rules, players can enjoy the game with more strategy and excitement.
+___
+![Rules](madia/Rules.png)
+___
+
+
