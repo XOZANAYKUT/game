@@ -4,3 +4,11 @@ Rock Paper Scissors, Lizard, Spock is a simple and fun app for people of all age
 ____
 ![mock](madia/mock.png)
 ____
+## Existing Features
+ 
+### Header
+- The title at the top of the page shows the name of the game:  Rock, Paper, Scissors, Lizard, Spock, in a fun font that contrasts with the background.
+
+This title clearly tells the user which game they are playing.
+___
+![header](madia/header.png)
