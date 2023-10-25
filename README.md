@@ -69,4 +69,8 @@ ___
 ![Rules](madia/Rules.png)
 ___
 
+## Features Left to Implement
 
+-Background music can be added
+
+____
