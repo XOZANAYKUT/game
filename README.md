@@ -12,3 +12,12 @@ ____
 This title clearly tells the user which game they are playing.
 ___
 ![header](madia/header.png)
+___
+## Game Option
+- The game options include a clear instruction followed by a series of options that can be selected to play Rock, Paper, Scissors, Lizard, Spock. These options are interactive buttons that the user can click to make their selection.
+
+- This section provides interactive buttons that the user can click to make their choice and play the game.
+___
+![option](madia/option.png)
+___
+
