@@ -85,5 +85,17 @@ ___
 - HTML: No errors were found when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fxozanaykut.github.io%2Fgame%2F)
 - CSS: No errors found when passing through the official [(Jigsaw) validator
 Deployment](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fxozanaykut.github.io%2Fgame%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+____
 
+## Deployment
+
+The site was deployed to GitHub pages. The steps to deploy are as follows:
+
+1. In the GitHub repository, navigate to the Settings tab.
+2. Under Code and automation on the left side select Pages.
+3. Under Source select Deploy from a branch.
+4. Under Branch select Main and after Save.
+5. Refresh the page.
+
+The live link can be found here - <https://xozanaykut.github.io/game/>
 ____
