@@ -99,3 +99,12 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 
 The live link can be found here - <https://xozanaykut.github.io/game/>
 ____
+
+## Credits
+
+### Content
+
+- Start the Game code has benefited from
+[Btkakademi](https://www.btkakademi.gov.tr)
+
+___
