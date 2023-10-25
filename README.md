@@ -47,3 +47,10 @@ ___
 ___
 ![results](madia/results.png)
 ___
+## Restart
+
+- The game result is displayed.
+- The Restart button offers the option to restart the game
+___
+![Restart](madia/restart.png)
+___
