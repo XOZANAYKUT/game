@@ -74,3 +74,8 @@ ___
 -Background music can be added
 
 ____
+## Performance
+![ligththouse1](madia/ligththouse1.png)
+___
+![ligththous2](madia/lighthous2.png)
+___
