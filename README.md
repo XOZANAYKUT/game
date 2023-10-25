@@ -5,6 +5,17 @@ ____
 ![mock](madia/mock.png)
 ____
 
+## Existing Features
+
+### Header
+
+- The title at the top of the page shows the name of the game:  Rock, Paper, Scissors, Lizard, Spock, in a fun font that contrasts with the background.
+
+- This title clearly tells the user which game they are playing.
+![header](madia/header.png)
+
+
+
 
 
 
