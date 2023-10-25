@@ -108,3 +108,11 @@ ____
 [Btkakademi](https://www.btkakademi.gov.tr)
 
 ___
+
+### Media
+
+- Image used on homepage and take from ,[ebay](https://www.ebay.de/)
+
+- The imageS used for the Game option was taken from[Canva](https://www.canva.com/)
+  
+- Favicon was downloaded at [Icons8](https://icons8.com/icons/set/book)
