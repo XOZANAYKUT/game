@@ -11,7 +11,7 @@ ____
 
 This title clearly tells the user which game they are playing.
 ___
-![header](madia/header.png)
+![header](media/header.png)
 ___
 ## Username
 
@@ -19,7 +19,7 @@ ___
 
 - Upon game initiation, the user's name is showcased within the game interface.
 ___
-![Username](madia/username.png)
+![Username](media/username.png)
 ___
 
 ## Game Option
@@ -27,7 +27,7 @@ ___
 
 - This section provides interactive buttons that the user can click to make their choice and play the game.
 ___
-![option](madia/option.png)
+![option](media/option.png)
 ___
 
 ### The Game Results
@@ -40,7 +40,7 @@ ___
 
 - This way, it becomes clear for users who won and what the scores are, making it easy to understand the game's outcome and scores.
 ___
-![results](madia/results.png)
+![results](media/results.png)
 ___
 
 ## Restart
@@ -48,7 +48,7 @@ ___
 - The game result is displayed.
 - The Restart button offers the option to restart the game
 ___
-![Restart](madia/restart.png)
+![Restart](media/restart.png)
 ___
 
 ### The Game Rules
@@ -66,7 +66,7 @@ ___
 - Spock smashes Scissors.
 - By integrating these rules, players can enjoy the game with more strategy and excitement.
 ___
-![Rules](madia/Rules.png)
+![Rules](media/Rules.png)
 ___
 
 ## Features Left to Implement
@@ -75,9 +75,9 @@ ___
 
 ____
 ## Performance
-![ligththouse1](madia/ligththouse1.png)
+![ligththouse1](media/ligththouse1.png)
 ___
-![ligththous2](madia/lighthous2.png)
+![ligththous2](media/lighthous2.png)
 ___
 
 ## Validator Testing
