@@ -1,15 +1,13 @@
 # [Rock, Paper, Scissors, Lizard, Spock](https://xozanaykut.github.io/game/)
 
-Rock Paper Scissors, Lizard, Spock is a simple and fun app for people of all ages. Users can practice while learning the game and improve their thinking skills at the same time. Users of this game will learn the rules of Rock Paper Scissors, Lizard, and Spock so they can apply them in their lives when making decisions with others. This site is aimed at adults and children as a simple app for learning, practicing, and having fun.
+Rock Paper Scissors, Lizard, Spock is a simple and fun game for people of all ages. Users can practice while learning the game and improve their thinking skills at the same time. Users of this game will learn the rules of Rock Paper Scissors, Lizard, and Spock so they can apply them in their lives when making decisions with others. This site is aimed at adults and children as a simple game for learning, practicing, and having fun.
 ____
 ![mock](media/mock.png)
 ____
 ## Existing Features
  
 ### Header
-- The title at the top of the page shows the name of the game:  Rock, Paper, Scissors, Lizard, Spock, in a fun font that contrasts with the background.
-
-This title clearly tells the user which game they are playing.
+- The title at the top of the page shows the name of the game: Rock, Paper, Scissors, Lizard, Spock. This title clearly tells the user which game they are playing.
 ___
 ![header](media/header.png)
 ___
@@ -23,9 +21,7 @@ ___
 ___
 
 ## Game Option
-- The game options include a clear instruction followed by a series of options that can be selected to play Rock, Paper, Scissors, Lizard, Spock. These options are interactive buttons that the user can click to make their selection.
-
-- This section provides interactive buttons that the user can click to make their choice and play the game.
+- The game options are interactive buttons that the user can click to make their selection. The buttons include clear illustrations that depict Rock, Paper, Scissors, Lizard, and Spock that the user can click to make their choice and play the game.
 ___
 ![option](media/option.png)
 ___
@@ -46,7 +42,7 @@ ___
 ## Restart
 
 - The game result is displayed.
-- The Restart button offers the option to restart the game
+- The Restart button offers the option to restart the game after ten selections are made.
 ___
 ![Restart](media/restart.png)
 ___
@@ -64,14 +60,15 @@ ___
 - Lizard eats Paper.
 - Spock vaporizes Rock.
 - Spock smashes Scissors.
-- By integrating these rules, players can enjoy the game with more strategy and excitement.
+ 
+By integrating these rules, players can enjoy the game with more strategy and excitement.
 ___
 ![Rules](media/Rules.png)
 ___
 
 ## Features Left to Implement
 
--Background music can be added
+- Background music can be added
 
 ____
 ## Performance
@@ -104,15 +101,13 @@ ____
 
 ### Content
 
-- Start the Game code has benefited from
-[Btkakademi](https://www.btkakademi.gov.tr)
-
+[Btkakademi](https://www.btkakademi.gov.tr) helped me to write the code for Start the Game feature.
 ___
 
 ### Media
 
-- Image used on homepage and take from ,[ebay](https://www.ebay.de/)
+- Image used on homepage and take from [ebay](https://www.ebay.de/)
 
-- The imageS used for the Game option was taken from[Canva](https://www.canva.com/)
+- The images used for the Game option was taken from [Canva](https://www.canva.com/)
   
 - Favicon was downloaded at [Icons8](https://icons8.com/icons/set/book)
